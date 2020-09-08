@@ -6,7 +6,7 @@
    #                   completing this exercise. I am also well aware of the 
    #                   policies stipulated in the AdNU student handbook.
 
-data = {"Name": "Patrick James R. Cada.", "Animal": "Panda.", "Reason": "i always want to just sleep and eat.", 
+data = {"Name": "Patrick James R. Cada.", "Animal": "Panda.", "Reason": "i always want to sleep and eat.", 
 	  "Hobbies": ["Play Computer Games","Play Ukulele","Hanging out with friends."],
 	  "Profession":"Flight Attendant or Programmer/Web Developer"}  
 
